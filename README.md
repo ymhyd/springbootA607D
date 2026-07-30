@@ -1,5 +1,3 @@
-# springbootA607D
-springbootA607D学校设备管理系统
 ## 源码问题查看主页咨询
 
 ### 一、关键词
